@@ -14,7 +14,6 @@
 - 🏢 I'm a Software Engineer
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, Angular, and .Net Core, or anything related to web development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 ### Connect with Me :
 
@@ -31,7 +30,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
 ![DotNet.js](https://img.shields.io/badge/-DotNet-05122A?style=flat&logo=.net)
-
+![Csharp.js](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=Csharp)
 
 
 
