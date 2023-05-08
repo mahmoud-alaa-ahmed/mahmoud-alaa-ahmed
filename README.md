@@ -16,7 +16,6 @@
 - 💬 Ask me about my experience with JavaScript, Angular, and .Net Core, or anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
-
 ### Connect with Me :
 
 <a href="https://linkedin.com/in/mahmoud-alaa-shaheen" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Alaa-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
