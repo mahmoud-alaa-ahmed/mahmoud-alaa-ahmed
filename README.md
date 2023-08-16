@@ -13,7 +13,7 @@
 
 - 🏢 I'm a Software Engineer
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, Angular, and .Net Core, or anything related to web development.
+- 💬 Ask me about my experience with JavaScript, Angular, and .Net Core,.Net Core MVC, ASP .NET Web API or anything related to web development.
 
 ### Connect with Me :
 
