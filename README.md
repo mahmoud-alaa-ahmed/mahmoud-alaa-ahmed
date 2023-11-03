@@ -33,7 +33,7 @@
 ![DotNet.js](https://img.shields.io/badge/-DotNet-05122A?style=flat&logo=.net)
 ![Csharp.js](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=Csharp)
 -->
-<br><br>
+<br>
 
 <h3 align="center">Languages and Frameworks:</h3>
 <p align="center"> 
