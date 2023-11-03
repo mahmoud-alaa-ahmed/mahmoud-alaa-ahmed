@@ -40,7 +40,6 @@
     <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
 </a>
 <br><br><br><br><br>
-/*<img width="250" align="left" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">*/
 
 <h3 align="center">Languages and Frameworks:</h3>
 <p align="center"> 
