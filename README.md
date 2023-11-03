@@ -32,13 +32,6 @@
 ![DotNet.js](https://img.shields.io/badge/-DotNet-05122A?style=flat&logo=.net)
 ![Csharp.js](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=Csharp)
 
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true" alt="most used languages" />
-<br>
-<a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-</a>
 <br><br><br><br><br>
 
 <h3 align="center">Languages and Frameworks:</h3>
