@@ -40,4 +40,13 @@
     <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
 </a>
 <br><br><br><br><br>
-<img width="250" align="left" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+/*<img width="250" align="left" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">*/
+
+<h3 align="center">Languages and Frameworks:</h3>
+<p align="center"> 
+<img alt="my skills" style="justify-content:center" src="https://skillicons.dev/icons?theme=light&perline=8&i=c,cpp,cs,js,ts,python,html,css,jquery,bootstrap,sass,vue,react,angular,dotnet,mysql,materialui" /></p>
+
+<h3 align="center" >Tools and IDE:</h3>
+<p align="center"> 
+ <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=vscode,visualstudio,docker,postman,azure,firebase,powershell,atom,figma,linux,git,github" />
+</p>
